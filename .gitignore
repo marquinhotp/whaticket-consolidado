@@ -1,0 +1,17 @@
+# node_modules e build
+node_modules/
+dist/
+build/
+
+# ambientes
+.env
+.env.*
+
+# docker
+pgdata/
+*.log
+
+# sistema
+.DS_Store
+.vscode/
+*.swp
